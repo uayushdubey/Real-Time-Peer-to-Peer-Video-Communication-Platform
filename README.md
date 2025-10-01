@@ -278,8 +278,9 @@ Handles room joining process for participants, including peer connection to host
 
 **1. Clone or Download Repository**
 ```bash
-git clone https://github.com/yourusername/advanced-video-chat-platform.git
-cd advanced-video-chat-platform
+git clone https://github.com/uayushdubey/Real-Time-Peer-to-Peer-Video-Communication-Platform
+.git
+cd Real-Time-Peer-to-Peer-Video-Communication-Platform
 ```
 
 **2. Host on Web Server**
