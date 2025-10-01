@@ -2,7 +2,6 @@
 
 A modern, peer-to-peer video conferencing application built with WebRTC technology, enabling real-time HD video calls, chat messaging, file sharing, and collaborative meeting notes.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
@@ -1347,5 +1346,3 @@ A: Meeting IDs are not reserved. Use unique, hard-to-guess IDs for better securi
 - PeerJS documentation and examples
 - Community contributions and feedback
 **Built with passion for seamless collaboration**
-
-For more information, visit the [project repository](https://github.com/yourusername/advanced-video-chat-platform).
